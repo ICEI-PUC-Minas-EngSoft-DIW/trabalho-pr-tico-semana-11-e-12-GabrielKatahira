@@ -20,7 +20,6 @@ main h3 {
 }
 #artist-grid-item {
     width: fit-content;
-    cursor: pointer;
     background-color: #111;
     padding: 5px;
     border-radius: 20px;
@@ -32,6 +31,18 @@ main h3 {
     border-radius: 20px;
     height: 15vw;
     object-fit: cover;
+    cursor: pointer;
+}
+#artist-grid-item button {
+    cursor: pointer;
+    width: 15vw;
+    border-radius: 20px;
+    background-color: #222;
+    border: none;
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    outline: none;
 }
 #artist-carousel {
     width: 33vw;
@@ -107,6 +118,60 @@ main h3 {
     border-radius: 20px;
     height: 30vw;
     object-fit: cover;
+}
+#artist-register {
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+#artist-register>section {
+    width: 80%;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
+#artist-image {
+    width: 20vw;
+    object-fit: cover;
+}
+#artist-albums {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+#artist-albums>div {
+    width: 20vw;
+    height: fit-content;
+    padding: 2vw;
+    margin-bottom: 20px;
+    background-color: #111;
+    border-radius: 20px;
+}
+#artist-albums>button {
+    order:9999;
+    background-color: #111;
+    border: none;
+    outline: none;
+    width: 20vw;
+    height: fit-content;
+    padding: 2vw;
+    border-radius: 20px;
+    color: inherit;
+    cursor: pointer;
+    font-size: inherit;
+    font-family: inherit;
+}
+#create-artist {
+    width: 80vw;
+    background-color: #111;
+    border: none;
+    outline: none;
+    height: fit-content;
+    padding: 2vw;
+    border-radius: 20px;
+    color: inherit;
+    cursor: pointer;
+    font-size: inherit;
+    font-family: inherit;
+    margin-top: 10vh;
 }
 footer{
     width: 100%;

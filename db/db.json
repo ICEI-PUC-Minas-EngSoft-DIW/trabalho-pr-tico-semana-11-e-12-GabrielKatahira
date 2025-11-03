@@ -224,6 +224,61 @@
           "imagem": "assets/img/album9-3.png"
         }
       ]
+    },
+    {
+      "nome": "MIMI",
+      "idioma": "Japonês",
+      "generos": "Ballad, J-Pop",
+      "vocaloids": "Hatsune Miku",
+      "image": "assets/img/art10.jpg",
+      "albuns": [
+        {
+          "nome": "Album 1",
+          "imagem": "assets/img/album1-3.png",
+          "id": "1"
+        },
+        {
+          "nome": "Album 2",
+          "imagem": "assets/img/album2-3.jpg",
+          "id": "2"
+        },
+        {
+          "nome": "Album 3",
+          "imagem": "assets/img/album3-2.jpg",
+          "id": "3"
+        },
+        {
+          "nome": "Album 4",
+          "imagem": "assets/img/album3-3.jpg",
+          "id": "4"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "nome": "Hachi",
+      "idioma": "Japonês",
+      "generos": "JRock, JPop",
+      "vocaloids": "Hatsune Miku",
+      "image": "assets/img/art11.jpg",
+      "albuns": [
+        {
+          "nome": "Album 1",
+          "imagem": "assets/img/album4-2.jpg",
+          "id": "1"
+        },
+        {
+          "nome": "Album 2",
+          "imagem": "assets/img/album2-3.jpg",
+          "id": "2"
+        },
+        {
+          "nome": "Album 3",
+          "imagem": "assets/img/album1-3.png",
+          "id": "3"
+        }
+      ],
+      "id": 11
     }
   ]
 }
