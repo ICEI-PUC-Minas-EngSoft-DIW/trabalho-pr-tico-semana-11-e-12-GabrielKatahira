@@ -6,24 +6,27 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Gabriel Katahira Cordeiro
+- Matricula: 899301
+- Proposta de projeto escolhida:1. Pessoas e Produções
+- Breve descrição sobre seu projeto: Um site que coleta e categoriza diversos artistas Vocaloid, de acordo com gênero, idioma e principais Vocaloids. Vocaloid é um software que é usado, principalmente por artistas japoneses, para poder sintetizar vozes para integrar em suas músicas. O software conta com diversos Vocaloids diferentes, que representam vozes diferentes.
+
 
 **Print dos testes da API com Postman ou similar**
 
-<< COLOQUE A IMAGEM GET AQUI >>
+![GET](testes/GET.png)
 
-<< COLOQUE A IMAGEM POST AQUI >>
+![PUT](testes/PUT.png)
 
-<< COLOQUE A IMAGEM PUT AQUI >>
+![POST](testes/POST.png)
 
-<< COLOQUE A IMAGEM DELETE AQUI >>
+![DELETE](testes/DELETE.png)
 
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
-<<  COLOQUE A IMAGEM AQUI >>
+![GET2](testes/GETDELETE2.png)
+
+![POST2](testes/POST2.png)
 
 ## **Orientações Gerais**
 
